@@ -7,28 +7,19 @@
 </div>
 
 <div align="center">
-	<a href="#"><img src="reddit.png" width="100px" alt="Image"/></a>
-	<a href="#"><img style="margin-left:0.5rem;margin-right:0.5rem" src="dread.png" width="100px" alt="Image"/></a>
-	<a href="#"><img src="github.png" width="100px" alt="Image"/></a>
+	<h3>tor.watch protect against phishing and monitor quality of service providers!</h3>
 </div>
 
 <div align="center">
-	<h3>tor.watch protect against phishing and monitor quality of service providers!
-	<br>
-	PGP verified Darknet links: Markets, Forums, Services and Sources</h3>
+	<h3>Markets | Forums | Services | Sources</h3>
 </div>
 
-<div align="center">
-	<h3 align="center">Official URLs</h3>
-<br>
-	<h2>https://tor.watch</h2>
-<br>
-	<h3>Mirror 1 https://torwatch.org
-<br>
-		Mirror 2 https://tordotwatch.org
-<br>
-		Tor Mirror xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion</h3>
+## Official URLs
 
-</div>
+- Main: [tor.watch](https://tor.watch)
+- Mirror 1: [torwatch.org](https://torwatch.org)
+- Mirror 2: [tordotwatch.org](https://tordotwatch.org)
+- Onion Mirror: xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion
+
 
 Read our Phishing Prevention
