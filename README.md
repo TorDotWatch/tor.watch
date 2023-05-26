@@ -1,4 +1,4 @@
-<p align="center"><img src="static/logo-small.png" alt="tordotwatch" width="100" height="100"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/131911538" alt="tordotwatch" width="100" height="100"></p>
 
 <h1 align="center">Tor.Watch</h1>
 
