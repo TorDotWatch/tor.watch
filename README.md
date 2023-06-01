@@ -23,7 +23,7 @@
 	
 <br />
 
-👉 Read Our Phishing Prevention **[Guide](https://torwatch.org)**
+👉 Read Our Phishing Prevention **[Guide](https://torwatch.org/prevention.html/)**
 
 <br />
 
