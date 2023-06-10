@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-	<h4>🛒 Markets | 🗣️ Forums | 🧰 Services | 🔌 Sources</h4>
+	<h4>🛒 Markets | 🗣️ Forums | 🗃️ Services | 🔌 Sources</h4>
 </div>
 
 ## 🔗 Official URLs
