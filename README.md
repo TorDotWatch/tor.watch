@@ -3,7 +3,7 @@
 <h1 align="center">Tor.Watch</h1>
 
 <div align="center">
-	<strong>🔒 Verified Darknet Links Source</strong>
+	<strong>🔒 Verified Darknet Source</strong>
 </div>
 
 <div align="center">
