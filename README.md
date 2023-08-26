@@ -17,8 +17,7 @@
 ## 🔗 Official URLs
 
 - <strong>Main: [tor.watch](https://tor.watch)</strong>
-- Mirror 1: [torwatch.org](https://torwatch.org)
-- Mirror 2: [tordotwatch.org](https://tordotwatch.org)
+
 - Onion Mirror: xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion
 	
 <br />
@@ -31,31 +30,28 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Signature from tor.watch Admin
-May. 2023
+Main URL: tor.watch
 
-Official URLs
-tor.watch
-torwatch.org
-tordotwatch.org
-xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion
+Onion URL: xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion
+
+26 AUG 2023
 
 -----BEGIN PGP SIGNATURE-----
 
-iQKTBAEBCgB9FiEEB1GiDTFIxgyrRqkzvnuv240rTgoFAmRxDHRfFIAAAAAALgAo
+iQKTBAEBCgB9FiEEB1GiDTFIxgyrRqkzvnuv240rTgoFAmTp33ZfFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldDA3
 NTFBMjBEMzE0OEM2MENBQjQ2QTkzM0JFN0JBRkRCOEQyQjRFMEEACgkQvnuv240r
-TgpsyxAAkRkm9n6eoG3bUK6bJYoL1+KaL8sckZ8PYeJonlgtFfV6e9HVdKD0E5+X
-6KtYywolF+YSoK8Xq103+65nyJU80K7YRn2dBixX2s7lsOzLZmJhnKTsq65M2OKr
-30XYNlWRXuXwnJq7wQg5oiZvjvDKudi/1SwW1FV2wJshKeZ44O97Ppc9+NlFIjjK
-fKaK5VloE/2iK1qXGokNW+e9C0qrcvk3fW/KGPLKBLL6M1c3ObnmEvFzRHpAg50+
-zGvbdJWzcvAs1d25EgK63pvD8XxYzHIZ92bX1YAEpWZSaywtA07LGMQNRGa2i6p1
-Pd/Yltr5bF3XBCgRygRCu/qn799YKrnTKFs7BDAsXnflt24lB6iGm6syyHA1hrVv
-jXrCMeycyurahhmvzmmZC6RLyxyfp6cRaUWxsMylfG8+mP/UEYVyIh8AGByeFQ7t
-ZLpSY2ZOTyoHPxiWO1HB1Fs9lInhIESljRoWLNoLAEpS6GcC/JRqOeuRbtjTLsvN
-Ni4Nccl6eaZWZ3QDMGE7GyOV8xLikwL95NKtyniUjoNz/NqJAvYNm7NMWJ7M0+EK
-MSo0aPKlERmRSDhVGJzRCXE5r6S8oM0uOCYIoqMUO8YbattCUzbjn85tFRLURbgD
-ovO4xRF4+xU16kAZaZDCLigtlLho24heLHRf7Wuyqf9YAutvh7Q=
-=FXef
+TgqdxQ/8DNR8spYlM91HGm3nesixJRFjoSardv1k0wG3n34MZMabp+JOnj2iZnkV
+mBccMN1hVe+72xuP5EcueSRi/bpz7+iqaB9oH+0Gfb35QFF4JZDaRz8FVeJ0B9Ga
+mvReIagVRke2FS4nrk6zrSGobwZWChQIBAXCBceAIODl+0I+L7lXAr6SpMm1Xw+6
+Hqb/Gdz89TV41oMjpfwRRYQ957xt6+nWN6+F5kYmmfvJhcRtrDH4u1W7FNCgDCNw
+yjFJAHjTJkB014Pd1UERwvWD8D+6Zbt9J7VTqexl1Idxag03x0pD7NkzQTe7/74U
+md7xWB7JMTyCoecCoR05KakPSojwdANaKLEPAEZ9cCvKmf6wpu7KX7Ngd8ZZ0BEe
+llLu2VW84YyAG0UxHm9yjZnfOX5BOrFvqdZDrk8rd9sHlUFHkdr0PtnuwlFJ06zk
+kiORf9nn3vy7gOk3/UjuJWtADk0aidpxHVce6q9/wAi08wr8yzwWw30J3Gp5y2wO
+GOcFVWe+RTFTLSvujY6o5hHnGpm1CzJapTF5U6XvcOmuTdnUfRqakptX9b0B2sDn
+DE+i+m+iYB4TcZ16oRxFJYlDVefgnhnzwpO/KIPECB6BSWvuEJMGgyz/3GDBcZjN
+GLv/0PyTJFIgFbhAHcbZbOM6x7/GgKzdBvhjPBZUIKKzByMIjLk=
+=XKyQ
 -----END PGP SIGNATURE-----
 ```
